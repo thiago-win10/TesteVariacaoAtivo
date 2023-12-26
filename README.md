@@ -8,14 +8,13 @@ A aplicação consiste em uma consulta na API do Yahoo Finance, onde os dados em
 
 
 # Tecnologias utilizadas
-## Back end
+## Backend
 - C#
 - NET Core 6.0
 - Arquitetura DDD/TDD
 - Banco de Dados: SQL Server
 
-## Back end
-Pré-requisitos: NET Core 6.0 / Visual Studio 2022
+# Pré-requisitos: NET Core 6.0 / Visual Studio 2022
 
 ```bash
 # clonar repositório
