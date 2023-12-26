@@ -19,7 +19,7 @@ Pré-requisitos: NET Core 6.0 / Visual Studio 2022
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+https://github.com/thiago-win10/TesteVariacaoAtivo.git
 
 # executar o projeto com Visual Studio 2022 com arquivo Sln
 ```
