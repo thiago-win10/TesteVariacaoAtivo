@@ -4,7 +4,7 @@
 
 TesteVariacaoAtivo é uma Aplicação Backend.
 
-A aplicação consiste em 2 consultas de API do Yahoo Finance e outra acessando os dados salvos na Base de daos, onde os dados em Json são coletados referentes a variação do preço de um ativo nos últimos 30 pregões, esses dados são transformados em objetos c# e inseridos na Base de dados usando a biblioteca do BulkInsert. No result da API salvos na Base são apresentados o percentual de variação de preço de um dia para o outro e o percentual desde o primeiro pregão apresentados. Dados sendo consumidos da Base de dados.
+A aplicação consiste em 2 consultas de API sendo uma de iintegração com a api do Yahoo Finance e a outra api sendo acessada com os dados salvos na Base de dados, os dados em Json são coletados referentes a variação do preço de um ativo nos últimos 30 pregões, esses dados são transformados em objetos c# e inseridos na Base de dados usando a biblioteca do BulkInsert. Com os dados da API de integração salvos na Base são apresentados o percentual de variação de preço de um dia para o outro e o percentual desde o primeiro pregão apresentados. Dados sendo consumidos da Base de dados.
 
 
 # Tecnologias utilizadas
