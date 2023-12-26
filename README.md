@@ -25,7 +25,6 @@ https://github.com/thiago-win10/TesteVariacaoAtivo.git
 ```
 # executar a migração com banco de dados do SQL Server comando cmd
 ```
-> dotnet ef migrations add InitialCreate
 > dotnet ef database update
 
 # Script da Migration para Rodar no SQL
