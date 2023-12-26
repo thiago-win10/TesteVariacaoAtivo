@@ -22,10 +22,11 @@ A aplicação consiste em 2 consultas de API sendo uma de iintegração com a ap
 # clonar repositório
 https://github.com/thiago-win10/TesteVariacaoAtivo.git
 
+# Pré-requisitos: NET Core 6.0 / Visual Studio 2022
 # executar o projeto com Visual Studio 2022 com arquivo Sln
-```
 
-```executar migrations via Visual Studio 2022
+# executar migrations via Visual Studio 2022
+
 # Com a migrations já gerada no projeto; Marque o Projeto TesteVariacaoAtivo.Api como "Set as Startup Project" e depois acessar o menu Tools -> Nugget Package Manage -> Package Manager Console -> Selecione Default project o projeto TesteVariacaoAtivo.Infra e inserir o comando: update-database.
 Este comando insere as migrations na base de dados configurada no appsettings.
 Rodando o projeto com F5 o projeto da Api abre a documentação do Swagger
