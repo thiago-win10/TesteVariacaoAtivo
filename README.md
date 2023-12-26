@@ -33,12 +33,12 @@ Rodando o projeto com F5 o projeto da Api abre a documentação do Swagger
 Caso a migração nao seja efetuda, crie no SQL Server o nome do banco configurado no appsettings e rode o update-database novamente.
 
 # executar a migração com banco de dados do SQL Server linha de comando
-```
+
 > dotnet ef database update
 
 # executar o projeto linha de comando
 dotnet run
-```
+
 # Script da Migration para Rodar no SQL
 
 IF OBJECT_ID(N'[__EFMigrationsHistory]') IS NULL
