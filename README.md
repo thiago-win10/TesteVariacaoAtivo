@@ -11,8 +11,10 @@ A aplicação consiste em uma consulta na API do Yahoo Finance, onde os dados em
 ## Backend
 - C#
 - NET Core 6.0
-- Arquitetura DDD/TDD
+- Arquitetura DDD
 - Banco de Dados: SQL Server
+- Migrations
+- Teste Unitário camada de Serviço do Get da Porcentagem 
 
 # Pré-requisitos: NET Core 6.0 / Visual Studio 2022
 
@@ -22,6 +24,13 @@ https://github.com/thiago-win10/TesteVariacaoAtivo.git
 
 # executar o projeto com Visual Studio 2022 com arquivo Sln
 ```
+
+```executar migrations via Visual Studio 2022
+# Com a migrations já gerada no projeto; Marque o Projeto TesteVariacaoAtivo.Api como "Set as Startup Project" e depois acessar o menu Tools -> Nugget Package Manage -> Package Manager Console -> Selecione Default project o projeto TesteVariacaoAtivo.Infra e inserir o comando: update-database.
+Este comando insere as migrations na base de dados configurada no appsettings.
+Rodando o projeto com F5 o projeto da Api abre a documentação do Swagger
+Caso a migração nao seja efetuda, crie no SQL Server o nome do banco configurado no appsettings e rode o update-database novamente.
+
 # executar a migração com banco de dados do SQL Server linha de comando
 ```
 > dotnet ef database update
