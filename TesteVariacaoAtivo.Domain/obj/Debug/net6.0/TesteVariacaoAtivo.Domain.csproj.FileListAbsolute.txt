@@ -1,0 +1,12 @@
+C:\Users\Thiago\Desktop\c#\TesteVariacaoAtivo\TesteVariacaoAtivo.Domain\obj\Debug\net6.0\TesteVariacaoAtivo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Desktop\c#\TesteVariacaoAtivo\TesteVariacaoAtivo.Domain\obj\Debug\net6.0\TesteVariacaoAtivo.Domain.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\c#\TesteVariacaoAtivo\TesteVariacaoAtivo.Domain\obj\Debug\net6.0\TesteVariacaoAtivo.Domain.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\c#\TesteVariacaoAtivo\TesteVariacaoAtivo.Domain\obj\Debug\net6.0\TesteVariacaoAtivo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\c#\TesteVariacaoAtivo\TesteVariacaoAtivo.Domain\obj\Debug\net6.0\TesteVariacaoAtivo.Domain.sourcelink.json
+C:\Users\Thiago\Desktop\c#\TesteVariacaoAtivo\TesteVariacaoAtivo.Domain\bin\Debug\net6.0\TesteVariacaoAtivo.Domain.deps.json
+C:\Users\Thiago\Desktop\c#\TesteVariacaoAtivo\TesteVariacaoAtivo.Domain\bin\Debug\net6.0\TesteVariacaoAtivo.Domain.dll
+C:\Users\Thiago\Desktop\c#\TesteVariacaoAtivo\TesteVariacaoAtivo.Domain\bin\Debug\net6.0\TesteVariacaoAtivo.Domain.pdb
+C:\Users\Thiago\Desktop\c#\TesteVariacaoAtivo\TesteVariacaoAtivo.Domain\obj\Debug\net6.0\TesteVariacaoAtivo.Domain.dll
+C:\Users\Thiago\Desktop\c#\TesteVariacaoAtivo\TesteVariacaoAtivo.Domain\obj\Debug\net6.0\refint\TesteVariacaoAtivo.Domain.dll
+C:\Users\Thiago\Desktop\c#\TesteVariacaoAtivo\TesteVariacaoAtivo.Domain\obj\Debug\net6.0\TesteVariacaoAtivo.Domain.pdb
+C:\Users\Thiago\Desktop\c#\TesteVariacaoAtivo\TesteVariacaoAtivo.Domain\obj\Debug\net6.0\ref\TesteVariacaoAtivo.Domain.dll
