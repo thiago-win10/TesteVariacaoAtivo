@@ -22,10 +22,13 @@ https://github.com/thiago-win10/TesteVariacaoAtivo.git
 
 # executar o projeto com Visual Studio 2022 com arquivo Sln
 ```
-# executar a migração com banco de dados do SQL Server comando cmd
+# executar a migração com banco de dados do SQL Server linha de comando
 ```
 > dotnet ef database update
 
+# executar o projeto linha de comando
+dotnet run
+```
 # Script da Migration para Rodar no SQL
 
 IF OBJECT_ID(N'[__EFMigrationsHistory]') IS NULL
